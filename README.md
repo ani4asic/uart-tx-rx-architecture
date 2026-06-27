@@ -121,9 +121,7 @@ uart-transmitter-receiver/
 │
 ├── TB/
 │   Functional verification testbench
-│
-└── docs/
-    Project documentation
+
 ```
 
 ---
