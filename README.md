@@ -212,3 +212,6 @@ The receiver successfully reconstructed the transmitted data, validating reliabl
 # License
 
 This repository is intended for educational and research purposes.
+
+# NOTE
+the testbench for the project was provided as a cocotb file during the competetion. Hence the complete TB may be unavailable!
